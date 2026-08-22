@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+
+  body {
+    @apply bg-slate-50 text-slate-900 overflow-x-hidden;
+  }
+}
+
+@layer utilities {
+  .academic-gradient {
+    background: linear-gradient(135deg, #07182D 0%, #123B63 100%);
+  }
+}

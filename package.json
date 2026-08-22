@@ -1,0 +1,24 @@
+{
+  "name": "ratnam-coaching-centre",
+  "version": "1.0.0",
+  "description": "Ratnam Coaching Centre (Estd. 1998) - Complete Educational Web Application, Student Portal & Admin Control Center",
+  "type": "module",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client dev",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build",
+    "seed": "npm --prefix server run seed"
+  },
+  "keywords": [
+    "ratnam-coaching-centre",
+    "bhimavaram",
+    "competitive-exams",
+    "school-tuitions",
+    "distance-education",
+    "certificate-assistance"
+  ],
+  "author": "Ratnam Coaching Centre Directorate",
+  "license": "ISC"
+}
