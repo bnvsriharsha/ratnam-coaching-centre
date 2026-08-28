@@ -17,16 +17,6 @@ A complete, modern, professional, and responsive educational institution web app
 
 ---
 
-## 🔐 Default Access Credentials
-
-| Role | Email | Password | Access Level |
-| :--- | :--- | :--- | :--- |
-| **Directorate / Admin** | `admin@ratnamcoaching.com` | `RatnamAdmin@1998` | Full Administrative Control Desk (15 Modules) |
-| **Student (Demo)** | `student@ratnamcoaching.com` | `StudentPass@1998` | Student Portal (Schedule, Notes, Results, Tracking) |
-
-*(Note: In the login portals, an "Auto Fill" button is provided for instant one-click testing.)*
-
----
 
 ## 🛠️ Technology Stack
 
